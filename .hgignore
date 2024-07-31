@@ -1,0 +1,17 @@
+syntax: glob
+*~
+.git
+awstats/
+.DS_Store
+*.orig
+.tern-port
+*.mp4
+
+*.log
+*~
+._*
+demo/public/node_modules
+
+
+syntax: regexp
+

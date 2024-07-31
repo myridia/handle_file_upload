@@ -1,0 +1,48 @@
+{
+  "_from": "handle_file_upload@*",
+  "_id": "handle_file_upload@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-nVdhWTTyA55Ddi6A90hh4Hj/sulz9/NHwYY0nB7vxzP0nBXjus9LCfSpvLwt9wsdJEMimiFi9gwSvCL1YMLi0w==",
+  "_location": "/handle_file_upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "handle_file_upload@*",
+    "name": "handle_file_upload",
+    "escapedName": "handle_file_upload",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/handle_file_upload/-/handle_file_upload-1.1.1.tgz",
+  "_shasum": "ea6f3b48585b6f5b8ebe28a219081a0f4b776e71",
+  "_spec": "handle_file_upload@*",
+  "_where": "/home/veto/webs/grid",
+  "author": {
+    "name": "veto@myridia.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  },
+  "deprecated": false,
+  "description": "Let you select the columns of a CSV, XLS or XLSX file",
+  "homepage": "https://calantas.org/handle_file_upload",
+  "license": "GPL-3.0-or-later",
+  "main": "handle_file_upload.js",
+  "name": "handle_file_upload",
+  "repository": {
+    "type": "hg",
+    "url": "https://calantas.org/handle_file_upload"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.3"
+}
