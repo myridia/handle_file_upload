@@ -1,3 +1,5 @@
+<img src="handle_file_upload.svg" alt="handle_file_upload" width="120">
+
 # handle_file_upload
 Handle File Uploads lets you select the columns of a CSV, XLS or XLSX file.
 It will return the selected columns for your import.
